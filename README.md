@@ -25,7 +25,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonada por dese
 
 ---
 
-## 🚀 Projeto em Destaque
+## ⭐ Projeto em Destaque
 
 ### ACAJU-front
 Projeto desenvolvido para a disciplina **Projeto de Extensão 3**, com o objetivo de criar um site institucional para a **ACAJU (Associação Caiçara Juqueriquerê)**. A aplicação conta com uma página inicial (home) para apresentação da associação e uma área administrativa (rota admin) para gerenciamento de conteúdo.
