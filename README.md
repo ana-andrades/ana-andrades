@@ -44,24 +44,20 @@ Projetos desenvolvidos ao longo das aulas, com foco em prática e aprendizado.
 
 **projeto-react-native-expo**
 > Aplicativo com React Native + Expo e Expo Router. Foco em navegação e componentização mobile, servindo como prática e referência de estudos.
-
 > [Ver repositório](https://github.com/ana-andrades/projeto-react-native-expo)
 
 ### 🌐 Web Full Stack
 
 **backend-api-ads-1sem2025**
 > API REST com Node.js + Express, Prisma ORM e arquitetura MVC. Cobre rotas GET, POST, PUT, DELETE e PATCH, com integração a banco de dados.
-
 > [Ver repositório](https://github.com/ana-andrades/backend-api-ads-1sem2025)
 
 **frontend-ads-demo-1sem2025**
 > Frontend com HTML, CSS e JavaScript para consumir a API do projeto. Telas de listagem e cadastro, voltado para requisições HTTP e DOM.
-
 > [Ver repositório](https://github.com/ana-andrades/frontend-ads-demo-1sem2025)
 
 **projeto-react**
 > Atividade full stack com backend e frontend separados. Backend em Node.js e frontend em React, com foco em integração entre API e interface.
-
 > [Ver repositório](https://github.com/ana-andrades/projeto-react)
 
 ---
