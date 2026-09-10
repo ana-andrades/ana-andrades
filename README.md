@@ -48,4 +48,4 @@ Projeto em conjunto desenvolvido na organização **adsifspcaragua**.
 
 ---
 
-📫 **Contato:** [seu email ou LinkedIn aqui]
+📫 **Contato:** www.linkedin.com/in/anajuliaandrades anajuliaasantana@gmail.com
