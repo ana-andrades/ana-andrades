@@ -28,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonada por dese
 
 ## ⭐ Projeto em Destaque
 
-### ACAJU — Associação Caiçara Juqueriquerê
+### ACAJU
 
 Projeto desenvolvido para a disciplina **Projeto de Extensão 3**, com o objetivo de criar um site institucional para a **ACAJU (Associação Caiçara Juqueriquerê)**. A aplicação conta com uma página inicial (home) para apresentação da associação e uma área administrativa (rota admin) para gerenciamento de conteúdo.
 
@@ -44,7 +44,7 @@ Projetos desenvolvidos ao longo das aulas, com foco em prática e aprendizado.
 
 **projeto-react-native-expo**
 > Aplicativo com React Native + Expo e Expo Router. Foco em navegação e componentização mobile, servindo como prática e referência de estudos.
-[Ver repositório](https://github.com/ana-andrades/projeto-react-native-expo)
+> [Ver repositório](https://github.com/ana-andrades/projeto-react-native-expo)
 
 ### 🌐 Web Full Stack
 
