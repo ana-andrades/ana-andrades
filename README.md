@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonada por dese
 
 ---
 
-## 🛠️ Tecnologias
+## Stacks
 
 ### Front-end
 
@@ -29,7 +29,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonada por dese
 
 ---
 
-## Projeto em Destaque
+## ⭐Projeto em Destaque
 
 ### ACAJU
 
