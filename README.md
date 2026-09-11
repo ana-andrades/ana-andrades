@@ -1,5 +1,4 @@
-# Ana Julia Andrade 
-### Desenvolvedora Full Stack com foco em Front-end
+# Olá, eu sou a Ana Julia!
 
 Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonada por desenvolvimento de software e criação de interfaces. Tenho conhecimentos em full stack, mas meu foco principal é o front-end, com interesse em experiência do usuário, componentização e construção de aplicações web e mobile.
 
