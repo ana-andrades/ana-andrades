@@ -8,24 +8,21 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonada por dese
 
 ### Front-end
 
-![React](https://img.shields.io/badge/-20232A?style=social&logo=react)
-![Next.js](https://img.shields.io/badge/-000000?style=social&logo=next.js)
-![React Native](https://img.shields.io/badge/-20232A?style=social&logo=react)
-![Expo](https://img.shields.io/badge/-000020?style=social&logo=expo)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=social&logo=javascript)
-![HTML5](https://img.shields.io/badge/-E34F26?style=social&logo=html5)
-![CSS3](https://img.shields.io/badge/-1572B6?style=social&logo=css3)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Front-end Icons" />
+</p>
 
 ### Back-end
 
-![Node.js](https://img.shields.io/badge/-43853D?style=social&logo=node.js)
-![Express](https://img.shields.io/badge/-000000?style=social&logo=express)
-![Java](https://img.shields.io/badge/-ED8B00?style=social&logo=openjdk)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Back-end Icons" />
+</p>
 
 ### Banco de Dados
 
-![Prisma](https://img.shields.io/badge/-2D3748?style=social&logo=prisma)
-![SQL](https://img.shields.io/badge/-4479A1?style=social&logo=mysql)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma,mysql" alt="Database Icons" />
+</p>
 ---
 
 ## ⭐ Projeto em Destaque
